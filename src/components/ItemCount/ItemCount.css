@@ -1,0 +1,25 @@
+.itemcount-container{
+    border: solid thin #0e97475e;
+    border-radius: 15px;
+    padding: 12px 25px;
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    margin: 10px auto;
+    text-align: center;
+    justify-content: space-around;
+    max-width: 240px;
+  }
+
+  .itemcount-control{
+    display: flex;
+    justify-content: center;
+    margin: 5px 0px;
+  }
+
+  .itemcount-count{
+    font-weight: bolder;
+    font-size: 22px;
+    color: grey;
+
+  }

@@ -1,0 +1,25 @@
+.home-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 650px;
+    gap: 50px;
+}
+
+.home-container h1{
+    font-size: 50px;
+    font-weight: bold;
+}
+
+.warning{
+    color:red;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.home-container strong{
+    font-size: 30px;
+    font-weight: bold;
+    color: blue;
+}
