@@ -4,7 +4,8 @@ import "./button.css";
 export default function Button({
   styBtn,
   children,
-  onClick,
+  type = "button",
+  onClick = () => {},
   className = "btn",
 }) {
   const [styleBtn, setStyleBtn] = useState(styBtn);
@@ -15,7 +16,7 @@ export default function Button({
   }
 
   return (
-    <button className={className} onClick={handleClick} style={styleBtn}>
+    <button type={type} className={className} onClick={handleClick} style={styleBtn}>
       {children}
     </button>
   );

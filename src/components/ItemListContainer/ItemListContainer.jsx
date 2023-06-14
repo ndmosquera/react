@@ -1,22 +1,25 @@
 import { useEffect, useState } from "react";
 import { useParams } from "react-router-dom";
-import { productos } from "../../data/products";
 import ItemList from "./ItemList";
+import { getData, getCategoryData } from "../../services/firebase";
 
 function ItemListContainer() {
-  const { categoryid } = useParams();
-  const [products, setProducts] = useState([]);
+  let [isLoading, setIsLoading] = useState(true);
+  let [products, setProducts] = useState([]);
+  const { categoryId } = useParams();
+
+  const catchData = categoryId === undefined ? getData : getCategoryData;
 
   useEffect(() => {
-    if (categoryid) {
-      const filterProducts = productos.filter((item) => item.categoria === categoryid);
-      setProducts(filterProducts);
-    } else {
-      setProducts(productos);
-    }
-  }, [categoryid]);
+    catchData(categoryId)
+    .then((answer) => setProducts(answer))
+    .finally(() => {
+      setIsLoading(false);
+    });
+  }, [categoryId]);
 
-  return <ItemList products={products} />;
+  return (
+    <ItemList isLoading={isLoading} products={products}/>);
 }
 
 export default ItemListContainer;

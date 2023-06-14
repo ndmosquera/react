@@ -7,7 +7,7 @@ function BrandPage() {
             </div>
 
             <strong>
-                La tienda está en: <a href="/parther">SOCIO DE NEGOCIO</a>
+                La tienda está en: <a href="/partner">SOCIO DE NEGOCIO</a>
             </strong>
 
         </div>

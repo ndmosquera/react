@@ -10,7 +10,8 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    min-width: 50%;
+    min-width: 30%;
+    max-height: 50%;
 
 }
 

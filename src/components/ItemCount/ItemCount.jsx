@@ -1,14 +1,31 @@
 import { useState } from "react";
 import Button from "../Button/Button";
 import Flex from "../Flex/Flex";
+import * as con from '../../utils/GlobalConstants'
+import Swal from 'sweetalert2/dist/sweetalert2.js';
+import 'sweetalert2/dist/sweetalert2.css';
 import "./ItemCount.css"
 
 function ItemCount(props) {
     let [count, setCount] = useState(0);
 
     function handleAdd(){
-        if (count < props.stock) setCount(count + 1);
-    }
+        if (count < props[con.STOCK]){
+            setCount(count + 1);
+        } else if (count + 1 > props[con.STOCK]) {
+            Swal.fire(
+                '¡Lo sentimos!',
+                'No tenemos más unidades',
+                'warning'
+              )
+        } else if (count === 0){
+            Swal.fire(
+                '¡Lo sentimos!',
+                'En este momento no contamos con este producto',
+                'warning'
+            )
+        }
+    } 
 
     function handleSubstract() {
         if (count > 1) setCount(count - 1);

@@ -1,0 +1,29 @@
+.confirmation-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 650px;
+    gap: 50px;
+}
+
+.confirmation-container h2{
+    font-size: 50px;
+    font-weight: bold;
+}
+
+.confirmation-container p{
+    font-size: 50px;
+    font-weight: bold;
+    color: forestgreen
+}
+
+
+.confirmation-container strong{
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.confirmation-container strong span{
+    color: red
+}

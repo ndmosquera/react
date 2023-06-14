@@ -2,7 +2,7 @@ import logo_negativo from "./logo-suministros-negativo.png";
 import React, { useState } from 'react';
 import './Navbar.css';
 import { Link as NavLink } from "react-router-dom";
-import CartWidget from "../cart/cartWidget";
+import CartWidget from "../CartView/cartWidget";
 
 const Navbar = () => {
   const [isMenuOpen, setIsMenuOpen] = useState(false);
@@ -28,7 +28,7 @@ const Navbar = () => {
       <ul id="nav-links" className={`nav-links ${isMenuOpen ? 'hide' : ''}`}>
         <li><NavLink to="/brands" className="links">MARCAS</NavLink></li>
         <li><NavLink to="/trajectory" className="links">TRAYECTORIA</NavLink></li>
-        <li><NavLink to="/parther" className="links">SOCIO DE NEGOCIO</NavLink></li>
+        <li><NavLink to="/partner" className="links">SOCIO DE NEGOCIO</NavLink></li>
         <li><NavLink to="/contact" className="links">CONTACTO</NavLink></li>
 
         <CartWidget></CartWidget>

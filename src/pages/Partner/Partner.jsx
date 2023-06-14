@@ -3,9 +3,9 @@ import ItemListContainer from "../../components/ItemListContainer/ItemListContai
 import './PartnerPage.css'
 
 
+
 function PartnerPage() {
     return (
-        
         <div className="partner-container">
             <aside className="partner-sidebar">
                 <Link className="category-links" to="/category/Cinta">
@@ -24,7 +24,7 @@ function PartnerPage() {
                 Siliconas
                 </Link>
             </aside>
-            <h1 className="partner-tittle">Catalogo de Productos</h1>
+            <h1 className="section-tittle">Catalogo de Productos</h1>
 
             <ItemListContainer></ItemListContainer>
         </div>
