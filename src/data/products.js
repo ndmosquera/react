@@ -6,7 +6,7 @@ export const productos = [
     'description': 'La cinta de celofán permite la fijación de elementos sobre mesas de trabajo sin que se presenten migración de adhesivo. por su respaldo de celofán permite cortarse con la mano con facilidad.',
     'characteristic': 'Fijación de películas o planos sobre mesas de trabajo. Cerrado de cajas plegadizas. Cerrado de paquetes.',
     'category': 'Cinta',
-    'image': '/src/data/img/04101-00006-02.png',
+    'image': '/img/04101-00006-02.png',
     'stock': 16,
    },
    
@@ -17,7 +17,7 @@ export const productos = [
     'description': 'tesa® Powerbond Cinta Doble Faz para Interiores es ideal para fijar objetos pequeños de varias caras como azulejos, tablones de anuncios, ganchos, relojes y cuadros en superficies de interior.',
     'characteristic': 'Una sola tira de 10 cm soporta hasta 40 kg en superficies fuertes para asegurar una buena adherencia y seguridad en su hogar.',
     'category': 'Cinta',
-    'image': '/src/data/img/04952-19801-00.png',
+    'image': '/img/04952-19801-00.png',
     'stock': 14,
    },
    
@@ -28,7 +28,7 @@ export const productos = [
     'description': 'Cinta doble faz fílmica ultra adhesiva. Transparente, ideal para instalaciones invisibles.',
     'characteristic': 'Alta resistencia a las condiciones climáticas. No se envejece o se cristaliza con el paso del tiempo. Perfecta para adherir sobre vidrio o acrílico.',
     'category': 'Cinta',
-    'image': '/src/data/img/04965-00070-00.png',
+    'image': '/img/04965-00070-00.png',
     'stock': 4,
    },
    
@@ -39,7 +39,7 @@ export const productos = [
     'description': 'Cinta doble faz fílmica de grado profesional ultra adhesiva. Transparente, ideal para instalaciones invisibles.',
     'characteristic': 'Alta resistencia a las condiciones climáticas. No se envejece o se cristaliza con el paso del tiempo. Perfecta para adherir sobre vidrio o acrílico.',
     'category': 'Cinta',
-    'image': '/src/data/img/04965-00176-00.png',
+    'image': '/img/04965-00176-00.png',
     'stock': 18,
    },
    
@@ -50,7 +50,7 @@ export const productos = [
     'description': 'Cinta doble faz fílmica de grado profesional ultra adhesiva. Transparente, ideal para instalaciones invisibles.',
     'characteristic': 'Alta resistencia a las condiciones climáticas. No se envejece o se cristaliza con el paso del tiempo. Perfecta para adherir sobre vidrio o acrílico.',
     'category': 'Cinta',
-    'image': '/src/data/img/04965-00179-00.png',
+    'image': '/img/04965-00179-00.png',
     'stock': 1,
    },
    
@@ -61,7 +61,7 @@ export const productos = [
     'description': 'Cinta aislante con recubrimiento de PVC, ideal para reparar, aislar, empalmar y agrupar todo tipo de cables eléctricos. Excelentes propiedades de resistencia a la humedad, abrasión, ácidos y alteraciones en condiciones ambientales y de corrosión.',
     'characteristic': 'La cinta aislante tesa® es una cinta de PVC disponible en seis colores diferentes. Es ideal para reparar, aislar y agrupar todo tipo de cables eléctricos como cables de alimentación, cables de los altavoces y cables de los auriculares. Puedes utilizarlo para reparar temporalmente un cable de alimentación dañado a fin de preservar su seguridad eléctrica. También es ideal para el código de color del cableado de los sistemas de entretenimiento o los equipos informáticos. En muchas situaciones es incluso ideal para aislar aparatos domésticos eléctricos, como las tostadoras o cafeteras. Cinta aislante retardante de llama. La cinta aislante eléctrica es una ayuda confiable para electricistas, mecánicos y otros operarios. Se caracteriza por su material base relativamente grueso, un alto grado de flexibilidad y un muy buen comportamiento adhesivo (incluso sobre acero y a bajas temperaturas). Certificada bajo todos los estándares de la norma Colombiana con respecto al manejo eléctrico. Posee excelentes propiedades de resistencia a la humedad, abrasión, ácidos y alteraciones en condiciones ambientales y de corrosión.',
     'category': 'Cinta',
-    'image': '/src/data/img/05488-09185-00.png',
+    'image': '/img/05488-09185-00.png',
     'stock': 15,
    },
    
@@ -72,7 +72,7 @@ export const productos = [
     'description': 'Cinta aislante con recubrimiento de PVC, ideal para reparar, aislar, empalmar y agrupar todo tipo de cables eléctricos. Excelentes propiedades de resistencia a la humedad, abrasión, ácidos y alteraciones en condiciones ambientales y de corrosión.',
     'characteristic': 'La cinta aislante tesa® es una cinta de PVC disponible en seis colores diferentes. Es ideal para reparar, aislar y agrupar todo tipo de cables eléctricos como cables de alimentación, cables de los altavoces y cables de los auriculares. Puedes utilizarlo para reparar temporalmente un cable de alimentación dañado a fin de preservar su seguridad eléctrica. También es ideal para el código de color del cableado de los sistemas de entretenimiento o los equipos informáticos. En muchas situaciones es incluso ideal para aislar aparatos domésticos eléctricos, como las tostadoras o cafeteras. Cinta aislante retardante de llama. La cinta aislante eléctrica es una ayuda confiable para electricistas, mecánicos y otros operarios. Se caracteriza por su material base relativamente grueso, un alto grado de flexibilidad y un muy buen comportamiento adhesivo (incluso sobre acero y a bajas temperaturas). Certificada bajo todos los estándares de la norma Colombiana con respecto al manejo eléctrico. Posee excelentes propiedades de resistencia a la humedad, abrasión, ácidos y alteraciones en condiciones ambientales y de corrosión.',
     'category': 'Cinta',
-    'image': '/src/data/img/05495-09000-01.png',
+    'image': '/img/05495-09000-01.png',
     'stock': 19,
    },
    
@@ -83,7 +83,7 @@ export const productos = [
     'description': 'Cinta aislante con recubrimiento de PVC, ideal para reparar, aislar, empalmar y agrupar todo tipo de cables eléctricos. Excelentes propiedades de resistencia a la humedad, abrasión, ácidos y alteraciones en condiciones ambientales y de corrosión.',
     'characteristic': 'La cinta aislante tesa® es una cinta de PVC disponible en seis colores diferentes. Es ideal para reparar, aislar y agrupar todo tipo de cables eléctricos como cables de alimentación, cables de los altavoces y cables de los auriculares. Puedes utilizarlo para reparar temporalmente un cable de alimentación dañado a fin de preservar su seguridad eléctrica. También es ideal para el código de color del cableado de los sistemas de entretenimiento o los equipos informáticos. En muchas situaciones es incluso ideal para aislar aparatos domésticos eléctricos, como las tostadoras o cafeteras. Cinta aislante retardante de llama. La cinta aislante eléctrica es una ayuda confiable para electricistas, mecánicos y otros operarios. Se caracteriza por su material base relativamente grueso, un alto grado de flexibilidad y un muy buen comportamiento adhesivo (incluso sobre acero y a bajas temperaturas). Certificada bajo todos los estándares de la norma Colombiana con respecto al manejo eléctrico. Posee excelentes propiedades de resistencia a la humedad, abrasión, ácidos y alteraciones en condiciones ambientales y de corrosión.',
     'category': 'Cinta',
-    'image': '/src/data/img/05495-09000-02.png',
+    'image': '/img/05495-09000-02.png',
     'stock': 14,
    },
    
@@ -94,7 +94,7 @@ export const productos = [
     'description': 'Cinta aislante con recubrimiento de PVC, ideal para reparar, aislar, empalmar y agrupar todo tipo de cables eléctricos. Excelentes propiedades de resistencia a la humedad, abrasión, ácidos y alteraciones en condiciones ambientales y de corrosión.',
     'characteristic': 'La cinta aislante tesa® es una cinta de PVC disponible en seis colores diferentes. Es ideal para reparar, aislar y agrupar todo tipo de cables eléctricos como cables de alimentación, cables de los altavoces y cables de los auriculares. Puedes utilizarlo para reparar temporalmente un cable de alimentación dañado a fin de preservar su seguridad eléctrica. También es ideal para el código de color del cableado de los sistemas de entretenimiento o los equipos informáticos. En muchas situaciones es incluso ideal para aislar aparatos domésticos eléctricos, como las tostadoras o cafeteras. Cinta aislante retardante de llama. La cinta aislante eléctrica es una ayuda confiable para electricistas, mecánicos y otros operarios. Se caracteriza por su material base relativamente grueso, un alto grado de flexibilidad y un muy buen comportamiento adhesivo (incluso sobre acero y a bajas temperaturas). Certificada bajo todos los estándares de la norma Colombiana con respecto al manejo eléctrico. Posee excelentes propiedades de resistencia a la humedad, abrasión, ácidos y alteraciones en condiciones ambientales y de corrosión.',
     'category': 'Cinta',
-    'image': '/src/data/img/05495-09000-03.png',
+    'image': '/img/05495-09000-03.png',
     'stock': 7,
    },
    
@@ -105,7 +105,7 @@ export const productos = [
     'description': 'Cinta aislante con recubrimiento de PVC, ideal para reparar, aislar, empalmar y agrupar todo tipo de cables eléctricos. Excelentes propiedades de resistencia a la humedad, abrasión, ácidos y alteraciones en condiciones ambientales y de corrosión.',
     'characteristic': 'La cinta aislante tesa® es una cinta de PVC disponible en seis colores diferentes. Es ideal para reparar, aislar y agrupar todo tipo de cables eléctricos como cables de alimentación, cables de los altavoces y cables de los auriculares. Puedes utilizarlo para reparar temporalmente un cable de alimentación dañado a fin de preservar su seguridad eléctrica. También es ideal para el código de color del cableado de los sistemas de entretenimiento o los equipos informáticos. En muchas situaciones es incluso ideal para aislar aparatos domésticos eléctricos, como las tostadoras o cafeteras. Cinta aislante retardante de llama. La cinta aislante eléctrica es una ayuda confiable para electricistas, mecánicos y otros operarios. Se caracteriza por su material base relativamente grueso, un alto grado de flexibilidad y un muy buen comportamiento adhesivo (incluso sobre acero y a bajas temperaturas). Certificada bajo todos los estándares de la norma Colombiana con respecto al manejo eléctrico. Posee excelentes propiedades de resistencia a la humedad, abrasión, ácidos y alteraciones en condiciones ambientales y de corrosión.',
     'category': 'Cinta',
-    'image': '/src/data/img/05495-09000-04.png',
+    'image': '/img/05495-09000-04.png',
     'stock': 2,
    },
    
@@ -116,7 +116,7 @@ export const productos = [
     'description': 'Cinta aislante con recubrimiento de PVC, ideal para reparar, aislar, empalmar y agrupar todo tipo de cables eléctricos. Excelentes propiedades de resistencia a la humedad, abrasión, ácidos y alteraciones en condiciones ambientales y de corrosión.',
     'characteristic': 'La cinta aislante tesa® es una cinta de PVC disponible en seis colores diferentes. Es ideal para reparar, aislar y agrupar todo tipo de cables eléctricos como cables de alimentación, cables de los altavoces y cables de los auriculares. Puedes utilizarlo para reparar temporalmente un cable de alimentación dañado a fin de preservar su seguridad eléctrica. También es ideal para el código de color del cableado de los sistemas de entretenimiento o los equipos informáticos. En muchas situaciones es incluso ideal para aislar aparatos domésticos eléctricos, como las tostadoras o cafeteras. Cinta aislante retardante de llama. La cinta aislante eléctrica es una ayuda confiable para electricistas, mecánicos y otros operarios. Se caracteriza por su material base relativamente grueso, un alto grado de flexibilidad y un muy buen comportamiento adhesivo (incluso sobre acero y a bajas temperaturas). Certificada bajo todos los estándares de la norma Colombiana con respecto al manejo eléctrico. Posee excelentes propiedades de resistencia a la humedad, abrasión, ácidos y alteraciones en condiciones ambientales y de corrosión.',
     'category': 'Cinta',
-    'image': '/src/data/img/05495-09000-05.png',
+    'image': '/img/05495-09000-05.png',
     'stock': 16,
    },
    
@@ -127,7 +127,7 @@ export const productos = [
     'description': 'Dispensador doble servicior para cintas de escritorio con core de 1 y 3 pulgadas',
     'characteristic': 'Cuchilla dispensadora de corte seguro. Base plástica oscura y módulo adicional, para un fácil intercambio del rollo de cinta en el taaño que desee utilizar',
     'category': 'Dispensador',
-    'image': '/src/data/img/06057-09000-01.png',
+    'image': '/img/06057-09000-01.png',
     'stock': 18,
    },
    
@@ -138,7 +138,7 @@ export const productos = [
     'description': 'Dispensador manual para aplicación de cintas de empaque, dotado de mango ergonómico.',
     'characteristic': 'Cuchilla metálica con soporte de seguridad para un corte fácil y seguro. Control de tensión austable para optimizar la aplicación de la cantidad necesaria. Ideal en cintas de hasta 100mts por 2" de ancho.',
     'category': 'Dispensador',
-    'image': '/src/data/img/06300-00001-00.png',
+    'image': '/img/06300-00001-00.png',
     'stock': 5,
    },
    
@@ -149,7 +149,7 @@ export const productos = [
     'description': 'La cinta antideslizante transparente para baños tesa® ofrece seguridad extra en suelos que tienden a ser resbaladizos. Es ideal para baños, duchas, tinas, piscinas, jacuzzis, escaleras, rampas, cubiertas de barcos etc. ayuda a prevenir accidentes y es sinónimo de adhesión fuerte y duradera.',
     'characteristic': 'Las cintas antideslizantes de tesa® ofrecen seguridad extra en suelos resbaladizos. Son ideales para minimizar accidentes en el hogar y en el trabajo causados por resbalones en áreas como:  escalones, escaleras, suelos lisos, baños y zonas húmedas. Son resistentes a la abrasión y a la humedad, la intemperie, altas temperaturas y rayos uv, lo que permite su uso en exteriores. La cinta antideslizante transparente para baños tesa® ofrece seguridad extra en suelos que tienden a ser resbaladizos. Es ideal para baños, duchas, tinas, piscinas, jacuzzis, escaleras, rampas, cubiertas de barcos etc. ayuda a prevenir accidentes y es sinónimo de adhesión fuerte y duradera. Su textura es suave al contacto con los pies, por lo cual le permitirá dar pasos firmes sin perder la delicadeza buscada al contacto de la piel con la superficie. Esta cinta es anti hongo y puede pegarse bajo inmersión. Está compuesta por un soporte rígido en pvc no abrasivo y adhesivo acrílico.',
     'category': 'Cinta',
-    'image': '/src/data/img/51071-09000-01.png',
+    'image': '/img/51071-09000-01.png',
     'stock': 3,
    },
    
@@ -160,7 +160,7 @@ export const productos = [
     'description': 'Las cintas antideslizantes negras de tesa® ofrecen seguridad extra en suelos resbaladizos. Son ideales para minimizar accidentes en el hogar y en el trabajo causados por resbalones en áreas como: escalones, escaleras, suelos lisos, baños y zonas húmedas',
     'characteristic': 'Las cintas antideslizantes de tesa® ofrecen seguridad extra en suelos resbaladizos. Son ideales para minimizar accidentes en el hogar y en el trabajo causados por resbalones en áreas como: escalones, escaleras, suelos lisos, baños y zonas húmedas. son resistentes a la abrasión, a la humedad, la intemperie, altas temperaturas y rayos uv, lo que permite su uso en exteriores. Cuentan con un abrasivo extremadamente resistente y se puede rasgar con la mano para una instalación sencilla. Además, estas cintas son resistentes a los ácidos, químicos y limpiadores de pisos. Están compuestas por un granulo de medida 60 adherida a un soporte de pvc y un adhesivo acrílico de alta resistencia, lo que permite una larga duración en el tiempo basado en una correcta aplicación del producto.',
     'category': 'Cinta',
-    'image': '/src/data/img/51073-00000-00.png',
+    'image': '/img/51073-00000-00.png',
     'stock': 14,
    },
    
@@ -171,7 +171,7 @@ export const productos = [
     'description': 'La cinta de empaque es una cinta de embalaje para sellado de cartón que ofrece un fiable sellado y permite una muy buena adherencia en todo tipo de superficies, ofreciendo una muy buena elasticidad.',
     'characteristic': 'La cinta de empaque es una cinta multiusos que se adapta perfectamente a las aplicaciones domésticas cotidianas. Puede usarla como una cinta versátil para cerrar un sobre y enviar de forma segura documentos importantes o cerrar un paquete postal. La cinta de empaque ha sido diseñada como una cinta de empaque con excelente relación costo-beneficio. Ofrece las prestaciones adecuadas para una gran cantidad de aplicaciones a un precio especialmente razonable. Es una cinta de polipropileno flexible especialmente apta para embalar paquetes blandos. La cinta de empaque ofrece una fuerza adhesiva adecuada y lleva una capa adhesiva sin ningún tipo de disolvente químico.',
     'category': 'Cinta',
-    'image': '/src/data/img/53380-00007-00.png',
+    'image': '/img/53380-00007-00.png',
     'stock': 1,
    },
    
@@ -182,7 +182,7 @@ export const productos = [
     'description': 'La cinta de empaque es una cinta de embalaje para sellado de cartón que ofrece un fiable sellado y permite una muy buena adherencia en todo tipo de superficies, ofreciendo una muy buena elasticidad.',
     'characteristic': 'La cinta de empaque es una cinta multiusos que se adapta perfectamente a las aplicaciones domésticas cotidianas. Puede usarla como una cinta versátil para cerrar un sobre y enviar de forma segura documentos importantes o cerrar un paquete postal. La cinta de empaque ha sido diseñada como una cinta de empaque con excelente relación costo-beneficio. Ofrece las prestaciones adecuadas para una gran cantidad de aplicaciones a un precio especialmente razonable. Es una cinta de polipropileno flexible especialmente apta para embalar paquetes blandos. La cinta de empaque ofrece una fuerza adhesiva adecuada y lleva una capa adhesiva sin ningún tipo de disolvente químico.',
     'category': 'Cinta',
-    'image': '/src/data/img/53380-00008-00.png',
+    'image': '/img/53380-00008-00.png',
     'stock': 11,
    },
    
@@ -193,7 +193,7 @@ export const productos = [
     'description': 'La cinta de empaque es una cinta de embalaje para sellado de cartón que ofrece un fiable sellado y permite una muy buena adherencia en todo tipo de superficies, ofreciendo una muy buena elasticidad.',
     'characteristic': 'La cinta de empaque es una cinta multiusos que se adapta perfectamente a las aplicaciones domésticas cotidianas. Puede usarla como una cinta versátil para cerrar un sobre y enviar de forma segura documentos importantes o cerrar un paquete postal. La cinta de empaque ha sido diseñada como una cinta de empaque con excelente relación costo-beneficio. Ofrece las prestaciones adecuadas para una gran cantidad de aplicaciones a un precio especialmente razonable. Es una cinta de polipropileno flexible especialmente apta para embalar paquetes blandos. La cinta de empaque ofrece una fuerza adhesiva adecuada y lleva una capa adhesiva sin ningún tipo de disolvente químico.',
     'category': 'Cinta',
-    'image': '/src/data/img/53380-00017-00.png',
+    'image': '/img/53380-00017-00.png',
     'stock': 6,
    },
    
@@ -204,7 +204,7 @@ export const productos = [
     'description': 'La cinta de empaque es una cinta de embalaje para sellado de cartón que ofrece un fiable sellado y permite una muy buena adherencia en todo tipo de superficies, ofreciendo una muy buena elasticidad.',
     'characteristic': 'La cinta de empaque es una cinta multiusos que se adapta perfectamente a las aplicaciones domésticas cotidianas. Puede usarla como una cinta versátil para cerrar un sobre y enviar de forma segura documentos importantes o cerrar un paquete postal. La cinta de empaque ha sido diseñada como una cinta de empaque con excelente relación costo-beneficio. Ofrece las prestaciones adecuadas para una gran cantidad de aplicaciones a un precio especialmente razonable. Es una cinta de polipropileno flexible especialmente apta para embalar paquetes blandos. La cinta de empaque ofrece una fuerza adhesiva adecuada y lleva una capa adhesiva sin ningún tipo de disolvente químico.',
     'category': 'Cinta',
-    'image': '/src/data/img/53380-00018-00.png',
+    'image': '/img/53380-00018-00.png',
     'stock': 1,
    },
    
@@ -215,7 +215,7 @@ export const productos = [
     'description': 'Cinta antideslizante para demarcación y seguridad en áreas de evacuación o alto tráfico.',
     'characteristic': 'Se pueden rasgar a mano y no se contraen después de la aplicación. Resistentes al agua, la intemperie, rayos UV y los productos de limpieza.',
     'category': 'Cinta',
-    'image': '/src/data/img/55588-09000-08.png',
+    'image': '/img/55588-09000-08.png',
     'stock': 7,
    },
    
@@ -226,7 +226,7 @@ export const productos = [
     'description': 'Cinta antideslizante con una franja fotoluminiscente que se recarga con luz natural o artificial.',
     'characteristic': 'Se pueden rasgar a mano y no se contraen después de la aplicación. Resistentes al agua, la intemperie, rayos UV y los productos de limpieza.',
     'category': 'Cinta',
-    'image': '/src/data/img/55629-09000-00.png',
+    'image': '/img/55629-09000-00.png',
     'stock': 16,
    },
    
@@ -237,7 +237,7 @@ export const productos = [
     'description': 'Cinta doble faz para una gran variedad de aplicaciones en el hogar, especialmente para fijación de objetos en interiores.',
     'characteristic': 'Soporta hasta 5kg por cada 10cm de cinta. Fija fuerte en azulejos, madera y en la mayoría de plásticos. ',
     'category': 'Cinta',
-    'image': '/src/data/img/55740-00008-00.png',
+    'image': '/img/55740-00008-00.png',
     'stock': 1,
    },
    
@@ -248,7 +248,7 @@ export const productos = [
     'description': 'Cinta doble faz para una gran variedad de aplicaciones en el hogar, especialmente para fijación de objetos en interiores.',
     'characteristic': 'Soporta hasta 5kg por cada 10cm de cinta. Fija fuerte en azulejos, madera y en la mayoría de plásticos. ',
     'category': 'Cinta',
-    'image': '/src/data/img/55740-00009-00.png',
+    'image': '/img/55740-00009-00.png',
     'stock': 15,
    },
    
@@ -259,7 +259,7 @@ export const productos = [
     'description': 'Cinta doble faz para una gran variedad de aplicaciones en el hogar, especialmente para fijación de objetos en interiores.',
     'characteristic': 'Soporta hasta 5kg por cada 10cm de cinta. Fija fuerte en azulejos, madera y en la mayoría de plásticos. ',
     'category': 'Cinta',
-    'image': '/src/data/img/55742-09004-00.png',
+    'image': '/img/55742-09004-00.png',
     'stock': 12,
    },
    
@@ -270,7 +270,7 @@ export const productos = [
     'description': 'Cinta doble faz para una gran variedad de aplicaciones en el hogar, especialmente para fijación de objetos en interiores.',
     'characteristic': 'Soporta hasta 5kg por cada 10cm de cinta. Fija fuerte en azulejos, madera y en la mayoría de plásticos. ',
     'category': 'Cinta',
-    'image': '/src/data/img/55742-09008-00.png',
+    'image': '/img/55742-09008-00.png',
     'stock': 13,
    },
    
@@ -281,7 +281,7 @@ export const productos = [
     'description': 'La cinta de doble cara tesa Powerbond® Ultra strong permite fijar varios objetos de forma rápida, segura y duradera en interiores. Soporta hasta 10kg por cada 10cm de cinta.',
     'characteristic': 'Cinta espumada para fijar objetos pesados. Para uso en interiores en superficies lisas y firmes.',
     'category': 'Cinta',
-    'image': '/src/data/img/55791-09000-00.png',
+    'image': '/img/55791-09000-00.png',
     'stock': 12,
    },
    
@@ -292,7 +292,7 @@ export const productos = [
     'description': 'Las tesa® Neón Notes son notas de colores llamativos autoadhesivas. Te ayudarán a recordar la información importante, tanto en casa como en la oficina.',
     'characteristic': 'Buena adhesión. Fáciles de quitar. Sin disolventes.',
     'category': 'Notas',
-    'image': '/src/data/img/56001-00000-00.png',
+    'image': '/img/56001-00000-00.png',
     'stock': 7,
    },
    
@@ -303,7 +303,7 @@ export const productos = [
     'description': 'Las tesa® Neón Notes son notas de colores llamativos autoadhesivas. Te ayudarán a recordar la información importante, tanto en casa como en la oficina.',
     'characteristic': 'Buena adhesión. Fáciles de quitar. Sin disolventes.',
     'category': 'Notas',
-    'image': '/src/data/img/56004-00000-00.png',
+    'image': '/img/56004-00000-00.png',
     'stock': 4,
    },
    
@@ -314,7 +314,7 @@ export const productos = [
     'description': 'Cinta transparente. Buena adhesión. Resistencia alta al paso del tiempo. Pelicula de polipropileno y adhesivo libre de solventes.',
     'characteristic': 'Cinta transparente. Buena adhesión. Resistencia alta al paso del tiempo. Pelicula de polipropileno y adhesivo libre de solventes.',
     'category': 'Cinta',
-    'image': '/src/data/img/56101-00000-00.png',
+    'image': '/img/56101-00000-00.png',
     'stock': 0,
    },
    
@@ -325,7 +325,7 @@ export const productos = [
     'description': 'Cinta transparente. Buena adhesión. Resistencia alta al paso del tiempo. Pelicula de polipropileno y adhesivo libre de solventes.',
     'characteristic': 'Cinta transparente. Buena adhesión. Resistencia alta al paso del tiempo. Pelicula de polipropileno y adhesivo libre de solventes.',
     'category': 'Cinta',
-    'image': '/src/data/img/56103-00000-00.png',
+    'image': '/img/56103-00000-00.png',
     'stock': 12,
    },
    
@@ -336,7 +336,7 @@ export const productos = [
     'description': 'Cinta transparente. Buena adhesión. Resistencia alta al paso del tiempo. Pelicula de polipropileno y adhesivo libre de solventes.',
     'characteristic': 'Cinta transparente. Buena adhesión. Resistencia alta al paso del tiempo. Pelicula de polipropileno y adhesivo libre de solventes.',
     'category': 'Cinta',
-    'image': '/src/data/img/56105-00000-00.png',
+    'image': '/img/56105-00000-00.png',
     'stock': 1,
    },
    
@@ -347,7 +347,7 @@ export const productos = [
     'description': 'Cinta transparente. Buena adhesión. Resistencia alta al paso del tiempo. Pelicula de polipropileno y adhesivo libre de solventes.',
     'characteristic': 'Cinta transparente. Buena adhesión. Resistencia alta al paso del tiempo. Pelicula de polipropileno y adhesivo libre de solventes.',
     'category': 'Cinta',
-    'image': '/src/data/img/56110-00000-00.png',
+    'image': '/img/56110-00000-00.png',
     'stock': 10,
    },
    
@@ -358,7 +358,7 @@ export const productos = [
     'description': 'Cinta transparente. Buena adhesión. Resistencia alta al paso del tiempo. Pelicula de polipropileno y adhesivo libre de solventes.',
     'characteristic': 'Cinta transparente. Buena adhesión. Resistencia alta al paso del tiempo. Pelicula de polipropileno y adhesivo libre de solventes.',
     'category': 'Cinta',
-    'image': '/src/data/img/56112-09440-00.png',
+    'image': '/img/56112-09440-00.png',
     'stock': 12,
    },
    
@@ -369,7 +369,7 @@ export const productos = [
     'description': 'Cinta transparente. Buena adhesión. Resistencia alta al paso del tiempo. Pelicula de polipropileno y adhesivo libre de solventes.',
     'characteristic': 'Cinta transparente. Buena adhesión. Resistencia alta al paso del tiempo. Pelicula de polipropileno y adhesivo libre de solventes.',
     'category': 'Cinta',
-    'image': '/src/data/img/56319-00000-00.png',
+    'image': '/img/56319-00000-00.png',
     'stock': 14,
    },
    
@@ -380,7 +380,7 @@ export const productos = [
     'description': 'Cinta transparente. Buena adhesión. Resistencia alta al paso del tiempo. Pelicula de polipropileno y adhesivo libre de solventes.',
     'characteristic': 'Cinta transparente. Buena adhesión. Resistencia alta al paso del tiempo. Pelicula de polipropileno y adhesivo libre de solventes.',
     'category': 'Cinta',
-    'image': '/src/data/img/56321-00000-00.png',
+    'image': '/img/56321-00000-00.png',
     'stock': 6,
    },
    
@@ -391,7 +391,7 @@ export const productos = [
     'description': 'La cinta Multiusos Extrapower de tesa® es una cinta adhesiva versátil con un poder de adherencia extra. Ideal para hacer manualidades, reparar, unir, agrupar y mucho más.',
     'characteristic': 'La cinta Multiusos Extrapower tesa® es una cinta adhesiva versátil con un poder de adherencia extra. Ideal para reparar, unir, agrupar y mucho más. Es una cinta adhesiva caracterizada por un poder de adhesión adicional, versátil y perfecta para una amplia gama de aplicaciones. Si bien se destaca por una fuerza superior, esta cinta adhesiva puede romperse fácilmente con la mano y  por tanto siempre será perfecta para reparaciones rápidas, manualidades, pegado, atado, reforzamiento, marcado y mucho más.',
     'category': 'Cinta',
-    'image': '/src/data/img/56348-00000-06.png',
+    'image': '/img/56348-00000-06.png',
     'stock': 16,
    },
    
@@ -402,7 +402,7 @@ export const productos = [
     'description': 'Las tesa® Neón Notes son notas de colores llamativos autoadhesivas. Te ayudarán a recordar la información importante, tanto en casa como en la oficina.',
     'characteristic': 'nan',
     'category': 'Notas',
-    'image': '/src/data/img/56684-00000-01.png',
+    'image': '/img/56684-00000-01.png',
     'stock': 2,
    },
    
@@ -413,7 +413,7 @@ export const productos = [
     'description': 'Pegante en barra sin solventes, para papel, cartón y otros materiales. tesa stick es una ayuda práctica para la casa, la oficina y los hobbies. Contiene un adhesivo sin solventes, ideal para el uso infantil. Es la herramienta indicada para muchas aplicaciones en manualidades y pequeñas decoraciones.',
     'characteristic': 'Pegante en barra sin solventes, para papel, cartón y otros materiales. tesa stick es una ayuda práctica para la casa, la oficina y los hobbies. Contiene un adhesivo sin solventes, ideal para el uso infantil. Es la herramienta indicada para muchas aplicaciones en manualidades y pequeñas decoraciones. Siempre deberías tenerlo a mano ya que constantemente hay algo que pegar. Tesa Stick está diseñado para una aplicación limpia y sencilla, así que no tendrás dedos pegajosos y si le pasa algo al mantel o a tu ropa, no te preocupes, cualquier mancha se puede eliminar fácilmente lavándola con agua fría.',
     'category': 'Pegante',
-    'image': '/src/data/img/57026-09022-00.png',
+    'image': '/img/57026-09022-00.png',
     'stock': 4,
    },
    
@@ -424,7 +424,7 @@ export const productos = [
     'description': 'Pegante en barra sin solventes, para papel, cartón y otros materiales. tesa stick es una ayuda práctica para la casa, la oficina y los hobbies. Contiene un adhesivo sin solventes, ideal para el uso infantil. Es la herramienta indicada para muchas aplicaciones en manualidades y pequeñas decoraciones.',
     'characteristic': 'Pegante en barra sin solventes, para papel, cartón y otros materiales. tesa stick es una ayuda práctica para la casa, la oficina y los hobbies. Contiene un adhesivo sin solventes, ideal para el uso infantil. Es la herramienta indicada para muchas aplicaciones en manualidades y pequeñas decoraciones. Siempre deberías tenerlo a mano ya que constantemente hay algo que pegar. Tesa Stick está diseñado para una aplicación limpia y sencilla, así que no tendrás dedos pegajosos y si le pasa algo al mantel o a tu ropa, no te preocupes, cualquier mancha se puede eliminar fácilmente lavándola con agua fría.',
     'category': 'Pegante',
-    'image': '/src/data/img/57028-09042-00.png',
+    'image': '/img/57028-09042-00.png',
     'stock': 14,
    },
    
@@ -435,7 +435,7 @@ export const productos = [
     'description': 'tesa® Adhesivo Instantáneo Liquido es un súper pegamento ofrece una unión instantánea y es ideal para reparar artículos de inmediato a través de una base 100% cianocrilato.',
     'characteristic': 'tesa® Adhesivo Instantáneo Liquido es un súper pegamento que ofrece una unión instantánea y es ideal para reparar artículos de inmediato a través de una base 100% cianocrilato. Fuerte, transparente, de rápido secado (15 segs aprox), resistente al agua y a la mayoría de químicos, pega en segundos materiales porosos y no porosos como metales, caucho, plástico, porcelana, cuero, corcho, madera y cartulina. ',
     'category': 'Pegante',
-    'image': '/src/data/img/57040-00006-00.png',
+    'image': '/img/57040-00006-00.png',
     'stock': 15,
    },
    
@@ -446,7 +446,7 @@ export const productos = [
     'description': 'La cinta tesafilm® Invisible es una cinta autoadhesiva de alta calidad para artesanías y reparaciones de papel. Visualmente invisible y neutral en fotocopias. Puede escribirse sobre ella con casi cualquier tipo de boligrafito o lápiz.',
     'characteristic': 'La cinta tesafilm® Invisible es una cinta autoadhesiva de alta calidad para artesanías y reparaciones de papel. Es una cinta sin PVC y sin disolventes, no se ve en las fotocopias y permanece invisible para el ojo en la mayoría de los papeles de color claro. Además, puede quitarse fácilmente de cualquier superficie sólida. Se desenrolla silenciosamente para brindarle mayor comodidad en su uso y coincide con todos los dispensadores de tesafilm®. Es ideal para el hogar, el colegio y la oficina. Sirve para manualidades artísticas, envolver regalos y arreglar documentos rasgados de la forma más discreta posible.',
     'category': 'Cinta',
-    'image': '/src/data/img/57312-00008-02.png',
+    'image': '/img/57312-00008-02.png',
     'stock': 5,
    },
    
@@ -457,7 +457,7 @@ export const productos = [
     'description': 'Las tesa® Notes Amarillas te ayudarán a recordar la información importante, tanto en casa como en la oficina.',
     'characteristic': 'nan',
     'category': 'Notas',
-    'image': '/src/data/img/57653-00001-05.png',
+    'image': '/img/57653-00001-05.png',
     'stock': 11,
    },
    
@@ -468,7 +468,7 @@ export const productos = [
     'description': 'Las tesa® Notes Amarillas te ayudarán a recordar la información importante, tanto en casa como en la oficina.',
     'characteristic': 'nan',
     'category': 'Notas',
-    'image': '/src/data/img/57654-00000-05.png',
+    'image': '/img/57654-00000-05.png',
     'stock': 2,
    },
    
@@ -479,7 +479,7 @@ export const productos = [
     'description': 'Las tesa® Notes Amarillas te ayudarán a recordar la información importante, tanto en casa como en la oficina.',
     'characteristic': 'nan',
     'category': 'Notas',
-    'image': '/src/data/img/57657-00001-05.png',
+    'image': '/img/57657-00001-05.png',
     'stock': 5,
    },
    
@@ -490,7 +490,7 @@ export const productos = [
     'description': 'Pegastic® es el aliado impecable en el hogar y la oficina. Su formulación es única y garantiza un secado extra rápido. Pega en menos de 60 segundos.',
     'characteristic': 'Pegastic® la marca que siempre se pega a tus proyectos! Es el aliado impecable en el hogar y la oficina. Su formulación es única y garantiza un secado extra rápido, siendo el unico del mercado que pega en menos de 60 segundos y garantiza una excelente adherencia a materiales como el papel, cartón, fotografías, cartulinas, foamy, fotos, tejido, fieltro, corcho y cuero. Está diseñado para una aplicación limpia y práctica. Es lavable, no es toxico y tiene un agradable aroma que lo caracteriza. Adicionalmente su práctico envase con tapa rosca garantiza absoluta hermeticidad.',
     'category': 'Pegante',
-    'image': '/src/data/img/57904-09040-00.png',
+    'image': '/img/57904-09040-00.png',
     'stock': 4,
    },
    
@@ -501,7 +501,7 @@ export const productos = [
     'description': 'Pegastic® es el aliado impecable en el hogar y la oficina. Su formulación es única y garantiza un secado extra rápido. Pega en menos de 60 segundos.',
     'characteristic': 'Pegastic® la marca que siempre se pega a tus proyectos! Es el aliado impecable en el hogar y la oficina. Su formulación es única y garantiza un secado extra rápido, siendo el unico del mercado que pega en menos de 60 segundos y garantiza una excelente adherencia a materiales como el papel, cartón, fotografías, cartulinas, foamy, fotos, tejido, fieltro, corcho y cuero. Está diseñado para una aplicación limpia y práctica. Es lavable, no es toxico y tiene un agradable aroma que lo caracteriza. Adicionalmente su práctico envase con tapa rosca garantiza absoluta hermeticidad.',
     'category': 'Pegante',
-    'image': '/src/data/img/57908-09010-00.png',
+    'image': '/img/57908-09010-00.png',
     'stock': 5,
    },
    
@@ -512,7 +512,7 @@ export const productos = [
     'description': 'Pegastic® es el aliado impecable en el hogar y la oficina. Su formulación es única y garantiza un secado extra rápido. Pega en menos de 60 segundos.',
     'characteristic': 'Pegastic® la marca que siempre se pega a tus proyectos! Es el aliado impecable en el hogar y la oficina. Su formulación es única y garantiza un secado extra rápido, siendo el unico del mercado que pega en menos de 60 segundos y garantiza una excelente adherencia a materiales como el papel, cartón, fotografías, cartulinas, foamy, fotos, tejido, fieltro, corcho y cuero. Está diseñado para una aplicación limpia y práctica. Es lavable, no es toxico y tiene un agradable aroma que lo caracteriza. Adicionalmente su práctico envase con tapa rosca garantiza absoluta hermeticidad.',
     'category': 'Pegante',
-    'image': '/src/data/img/57909-09020-00.png',
+    'image': '/img/57909-09020-00.png',
     'stock': 1,
    },
    
@@ -523,7 +523,7 @@ export const productos = [
     'description': 'Pegante liquido tesa® con buena calidad de adherencia, seguro para tareas escolares.',
     'characteristic': 'No mancha y se puede lavar fácilmente, no es toxico.',
     'category': 'Pegante',
-    'image': '/src/data/img/57986-00001-00.png',
+    'image': '/img/57986-00001-00.png',
     'stock': 10,
    },
    
@@ -534,7 +534,7 @@ export const productos = [
     'description': 'Pegante liquido tesa® con buena calidad de adherencia, seguro para tareas escolares.',
     'characteristic': 'No mancha y se puede lavar fácilmente, no es toxico.',
     'category': 'Pegante',
-    'image': '/src/data/img/57987-00001-00.png',
+    'image': '/img/57987-00001-00.png',
     'stock': 0,
    },
    
@@ -545,7 +545,7 @@ export const productos = [
     'description': 'Pegante liquido tesa® con buena calidad de adherencia, seguro para tareas escolares.',
     'characteristic': 'No mancha y se puede lavar fácilmente, no es toxico.',
     'category': 'Pegante',
-    'image': '/src/data/img/57988-00001-00.png',
+    'image': '/img/57988-00001-00.png',
     'stock': 4,
    },
    
@@ -556,7 +556,7 @@ export const productos = [
     'description': 'Pegante liquido tesa® con buena calidad de adherencia, seguro para tareas escolares.',
     'characteristic': 'No mancha y se puede lavar fácilmente, no es toxico.',
     'category': 'Pegante',
-    'image': '/src/data/img/57989-00001-00.png',
+    'image': '/img/57989-00001-00.png',
     'stock': 4,
    },
    
@@ -567,7 +567,7 @@ export const productos = [
     'description': 'Cinta correctora para diestros y zurdos.',
     'characteristic': 'Ofrece una cobertura perfecta y puedes volver a escribir de inmediato. No necesita tiempo de secado.',
     'category': 'Cinta',
-    'image': '/src/data/img/58563-00000-00.png',
+    'image': '/img/58563-00000-00.png',
     'stock': 3,
    },
    
@@ -578,7 +578,7 @@ export const productos = [
     'description': 'Cinta adhesiva doble faz para una fijación segura y rápida de objetos planos y ligeros adecuada para la mayoría de superficies lisas.',
     'characteristic': 'Ideal para uso en el interior. Fácil de aplica.  Perfecta para fijar objetos ligeros y planos en la oficina.',
     'category': 'Cinta',
-    'image': '/src/data/img/58565-00001-00.png',
+    'image': '/img/58565-00001-00.png',
     'stock': 13,
    },
    
@@ -589,7 +589,7 @@ export const productos = [
     'description': 'Adhesivo Multipropósito de aplicación en frío. Une de manera limpia y transparente todo tipo de materiales en aplicaciones decorativas, manuales y de marquetería',
     'characteristic': 'Adhesivo Multipropósito de aplicación en frío. Une de manera limpia y transparente todo tipo de materiales en aplicaciones decorativas, manuales y de marquetería. La Silicona Líquida de tesa® es transparente, no mancha y su envase dosificador permite una fácil y directa aplicación evitando derrames y suciedad. Aplica sobre superficies limpias, secas y libres de grasa presionando durante 30 seg. Evita inhalar cualquier tipo de vapor. Ideal para pegar papel, corcho, foamy, cuero, tela, fieltros, madera, cartón y vidrio.',
     'category': 'Silicona',
-    'image': '/src/data/img/59620-00000-00.png',
+    'image': '/img/59620-00000-00.png',
     'stock': 10,
    },
    
@@ -600,7 +600,7 @@ export const productos = [
     'description': 'Adhesivo Multipropósito de aplicación en frío. Une de manera limpia y transparente todo tipo de materiales en aplicaciones decorativas, manuales y de marquetería',
     'characteristic': 'Adhesivo Multipropósito de aplicación en frío. Une de manera limpia y transparente todo tipo de materiales en aplicaciones decorativas, manuales y de marquetería. La Silicona Líquida de tesa® es transparente, no mancha y su envase dosificador permite una fácil y directa aplicación evitando derrames y suciedad. Aplica sobre superficies limpias, secas y libres de grasa presionando durante 30 seg. Evita inhalar cualquier tipo de vapor. Ideal para pegar papel, corcho, foamy, cuero, tela, fieltros, madera, cartón y vidrio.',
     'category': 'Silicona',
-    'image': '/src/data/img/59621-00000-00.png',
+    'image': '/img/59621-00000-00.png',
     'stock': 17,
    },
    
@@ -611,7 +611,7 @@ export const productos = [
     'description': 'Adhesivo Multipropósito de aplicación en frío. Une de manera limpia y transparente todo tipo de materiales en aplicaciones decorativas, manuales y de marquetería',
     'characteristic': 'Adhesivo Multipropósito de aplicación en frío. Une de manera limpia y transparente todo tipo de materiales en aplicaciones decorativas, manuales y de marquetería. La Silicona Líquida de tesa® es transparente, no mancha y su envase dosificador permite una fácil y directa aplicación evitando derrames y suciedad. Aplica sobre superficies limpias, secas y libres de grasa presionando durante 30 seg. Evita inhalar cualquier tipo de vapor. Ideal para pegar papel, corcho, foamy, cuero, tela, fieltros, madera, cartón y vidrio.',
     'category': 'Silicona',
-    'image': '/src/data/img/59622-00000-00.png',
+    'image': '/img/59622-00000-00.png',
     'stock': 20,
    },
    
@@ -622,7 +622,7 @@ export const productos = [
     'description': 'Adhesivo Multipropósito de aplicación en frío. Une de manera limpia y transparente todo tipo de materiales en aplicaciones decorativas, manuales y de marquetería',
     'characteristic': 'Adhesivo Multipropósito de aplicación en frío. Une de manera limpia y transparente todo tipo de materiales en aplicaciones decorativas, manuales y de marquetería. La Silicona Líquida de tesa® es transparente, no mancha y su envase dosificador permite una fácil y directa aplicación evitando derrames y suciedad. Aplica sobre superficies limpias, secas y libres de grasa presionando durante 30 seg. Evita inhalar cualquier tipo de vapor. Ideal para pegar papel, corcho, foamy, cuero, tela, fieltros, madera, cartón y vidrio.',
     'category': 'Silicona',
-    'image': '/src/data/img/59623-00000-00.png',
+    'image': '/img/59623-00000-00.png',
     'stock': 7,
    },
    
@@ -633,7 +633,7 @@ export const productos = [
     'description': 'Adhesivo Multipropósito de aplicación en frío. Une de manera limpia y transparente todo tipo de materiales en aplicaciones decorativas, manuales y de marquetería',
     'characteristic': 'Adhesivo Multipropósito de aplicación en frío. Une de manera limpia y transparente todo tipo de materiales en aplicaciones decorativas, manuales y de marquetería. La Silicona Líquida de tesa® es transparente, no mancha y su envase dosificador permite una fácil y directa aplicación evitando derrames y suciedad. Aplica sobre superficies limpias, secas y libres de grasa presionando durante 30 seg. Evita inhalar cualquier tipo de vapor. Ideal para pegar papel, corcho, foamy, cuero, tela, fieltros, madera, cartón y vidrio.',
     'category': 'Silicona',
-    'image': '/src/data/img/59624-00000-00.png',
+    'image': '/img/59624-00000-00.png',
     'stock': 18,
    },
    
@@ -644,7 +644,7 @@ export const productos = [
     'description': 'Adhesivo en spray versátil para la unión permanente de papel, cartón, tela, madera, cuero y una gran variedad de plásticos.',
     'characteristic': 'Pegado limpio, rápido, seguro y eficiente de grandes áreas. Libre de silicona y disolventes clorados.',
     'category': 'Pegante',
-    'image': '/src/data/img/60021-00000-02.png',
+    'image': '/img/60021-00000-02.png',
     'stock': 12,
    },
    
@@ -655,7 +655,7 @@ export const productos = [
     'description': 'La Cinta de Enmascarar Multipropósito tesa® es una cinta ampliamente utilizada para enmascarar en interiores y exteriores, sobre superficies de madera, muebles, metal, decoración y partes plásticas.',
     'characteristic': 'La Cinta de Enmascarar Multipropósito tesa® es una cinta ampliamente utilizada para enmascarar en interiores y exteriores, sobre superficies de madera, muebles, metal, decoración y partes plásticas. Se puede seleccionar entre una variada gama de cintas de uso general o arquitectónico. Las cintas de papel están disponibles en diferentes anchos para permitir una protección efectiva en casi cualquier situación. A pesar de que ofrece una buena adherencia sobre la mayoría de superficies, puede quitarse fácilmente sin dejar huellas visibles. Se puede retirar fácilmente sin dejar reciduos siempre y cuando se retire en el plazo de 3 días, tesa® garantiza también la eliminación libre de residuos, para un trabajo limpio del que podrás estar orgulloso. Fácil rasgado y libre de solventes',
     'category': 'Cinta',
-    'image': '/src/data/img/60188-00000-00.png',
+    'image': '/img/60188-00000-00.png',
     'stock': 5,
    },
    
@@ -666,7 +666,7 @@ export const productos = [
     'description': 'La Cinta de Enmascarar Multipropósito tesa® es una cinta ampliamente utilizada para enmascarar en interiores y exteriores, sobre superficies de madera, muebles, metal, decoración y partes plásticas.',
     'characteristic': 'La Cinta de Enmascarar Multipropósito tesa® es una cinta ampliamente utilizada para enmascarar en interiores y exteriores, sobre superficies de madera, muebles, metal, decoración y partes plásticas. Se puede seleccionar entre una variada gama de cintas de uso general o arquitectónico. Las cintas de papel están disponibles en diferentes anchos para permitir una protección efectiva en casi cualquier situación. A pesar de que ofrece una buena adherencia sobre la mayoría de superficies, puede quitarse fácilmente sin dejar huellas visibles. Se puede retirar fácilmente sin dejar reciduos siempre y cuando se retire en el plazo de 3 días, tesa® garantiza también la eliminación libre de residuos, para un trabajo limpio del que podrás estar orgulloso. Fácil rasgado y libre de solventes',
     'category': 'Cinta',
-    'image': '/src/data/img/60188-00001-00.png',
+    'image': '/img/60188-00001-00.png',
     'stock': 1,
    },
    
@@ -677,7 +677,7 @@ export const productos = [
     'description': 'La Cinta de Enmascarar Multipropósito tesa® es una cinta ampliamente utilizada para enmascarar en interiores y exteriores, sobre superficies de madera, muebles, metal, decoración y partes plásticas.',
     'characteristic': 'La Cinta de Enmascarar Multipropósito tesa® es una cinta ampliamente utilizada para enmascarar en interiores y exteriores, sobre superficies de madera, muebles, metal, decoración y partes plásticas. Se puede seleccionar entre una variada gama de cintas de uso general o arquitectónico. Las cintas de papel están disponibles en diferentes anchos para permitir una protección efectiva en casi cualquier situación. A pesar de que ofrece una buena adherencia sobre la mayoría de superficies, puede quitarse fácilmente sin dejar huellas visibles. Se puede retirar fácilmente sin dejar reciduos siempre y cuando se retire en el plazo de 3 días, tesa® garantiza también la eliminación libre de residuos, para un trabajo limpio del que podrás estar orgulloso. Fácil rasgado y libre de solventes',
     'category': 'Cinta',
-    'image': '/src/data/img/60188-00002-00.png',
+    'image': '/img/60188-00002-00.png',
     'stock': 3,
    },
    
@@ -688,7 +688,7 @@ export const productos = [
     'description': 'La Cinta de Enmascarar Multipropósito tesa® es una cinta ampliamente utilizada para enmascarar en interiores y exteriores, sobre superficies de madera, muebles, metal, decoración y partes plásticas.',
     'characteristic': 'La Cinta de Enmascarar Multipropósito tesa® es una cinta ampliamente utilizada para enmascarar en interiores y exteriores, sobre superficies de madera, muebles, metal, decoración y partes plásticas. Se puede seleccionar entre una variada gama de cintas de uso general o arquitectónico. Las cintas de papel están disponibles en diferentes anchos para permitir una protección efectiva en casi cualquier situación. A pesar de que ofrece una buena adherencia sobre la mayoría de superficies, puede quitarse fácilmente sin dejar huellas visibles. Se puede retirar fácilmente sin dejar reciduos siempre y cuando se retire en el plazo de 3 días, tesa® garantiza también la eliminación libre de residuos, para un trabajo limpio del que podrás estar orgulloso. Fácil rasgado y libre de solventes',
     'category': 'Cinta',
-    'image': '/src/data/img/60188-00003-00.png',
+    'image': '/img/60188-00003-00.png',
     'stock': 18,
    },
    
@@ -699,7 +699,7 @@ export const productos = [
     'description': 'La Cinta de Enmascarar Multipropósito tesa® es una cinta ampliamente utilizada para enmascarar en interiores y exteriores, sobre superficies de madera, muebles, metal, decoración y partes plásticas.',
     'characteristic': 'La Cinta de Enmascarar Multipropósito tesa® es una cinta ampliamente utilizada para enmascarar en interiores y exteriores, sobre superficies de madera, muebles, metal, decoración y partes plásticas. Se puede seleccionar entre una variada gama de cintas de uso general o arquitectónico. Las cintas de papel están disponibles en diferentes anchos para permitir una protección efectiva en casi cualquier situación. A pesar de que ofrece una buena adherencia sobre la mayoría de superficies, puede quitarse fácilmente sin dejar huellas visibles. Se puede retirar fácilmente sin dejar reciduos siempre y cuando se retire en el plazo de 3 días, tesa® garantiza también la eliminación libre de residuos, para un trabajo limpio del que podrás estar orgulloso. Fácil rasgado y libre de solventes',
     'category': 'Cinta',
-    'image': '/src/data/img/60188-00004-00.png',
+    'image': '/img/60188-00004-00.png',
     'stock': 6,
    },
    
@@ -710,7 +710,7 @@ export const productos = [
     'description': 'La Cinta de Enmascarar Multipropósito tesa® es una cinta ampliamente utilizada para enmascarar en interiores y exteriores, sobre superficies de madera, muebles, metal, decoración y partes plásticas.',
     'characteristic': 'La Cinta de Enmascarar Multipropósito tesa® es una cinta ampliamente utilizada para enmascarar en interiores y exteriores, sobre superficies de madera, muebles, metal, decoración y partes plásticas. Se puede seleccionar entre una variada gama de cintas de uso general o arquitectónico. Las cintas de papel están disponibles en diferentes anchos para permitir una protección efectiva en casi cualquier situación. A pesar de que ofrece una buena adherencia sobre la mayoría de superficies, puede quitarse fácilmente sin dejar huellas visibles. Se puede retirar fácilmente sin dejar reciduos siempre y cuando se retire en el plazo de 3 días, tesa® garantiza también la eliminación libre de residuos, para un trabajo limpio del que podrás estar orgulloso. Fácil rasgado y libre de solventes',
     'category': 'Cinta',
-    'image': '/src/data/img/60188-00005-00.png',
+    'image': '/img/60188-00005-00.png',
     'stock': 1,
    },
    
@@ -721,7 +721,7 @@ export const productos = [
     'description': 'La Cinta de Enmascarar Multipropósito tesa® es una cinta ampliamente utilizada para enmascarar en interiores y exteriores, sobre superficies de madera, muebles, metal, decoración y partes plásticas.',
     'characteristic': 'La Cinta de Enmascarar Multipropósito tesa® es una cinta ampliamente utilizada para enmascarar en interiores y exteriores, sobre superficies de madera, muebles, metal, decoración y partes plásticas. Se puede seleccionar entre una variada gama de cintas de uso general o arquitectónico. Las cintas de papel están disponibles en diferentes anchos para permitir una protección efectiva en casi cualquier situación. A pesar de que ofrece una buena adherencia sobre la mayoría de superficies, puede quitarse fácilmente sin dejar huellas visibles. Se puede retirar fácilmente sin dejar reciduos siempre y cuando se retire en el plazo de 3 días, tesa® garantiza también la eliminación libre de residuos, para un trabajo limpio del que podrás estar orgulloso. Fácil rasgado y libre de solventes',
     'category': 'Cinta',
-    'image': '/src/data/img/60188-00006-00.png',
+    'image': '/img/60188-00006-00.png',
     'stock': 13,
    },
    
@@ -732,7 +732,7 @@ export const productos = [
     'description': 'La Cinta de Enmascarar Multipropósito tesa® es una cinta ampliamente utilizada para enmascarar en interiores y exteriores, sobre superficies de madera, muebles, metal, decoración y partes plásticas.',
     'characteristic': 'La Cinta de Enmascarar Multipropósito tesa® es una cinta ampliamente utilizada para enmascarar en interiores y exteriores, sobre superficies de madera, muebles, metal, decoración y partes plásticas. Se puede seleccionar entre una variada gama de cintas de uso general o arquitectónico. Las cintas de papel están disponibles en diferentes anchos para permitir una protección efectiva en casi cualquier situación. A pesar de que ofrece una buena adherencia sobre la mayoría de superficies, puede quitarse fácilmente sin dejar huellas visibles. Se puede retirar fácilmente sin dejar reciduos siempre y cuando se retire en el plazo de 3 días, tesa® garantiza también la eliminación libre de residuos, para un trabajo limpio del que podrás estar orgulloso. Fácil rasgado y libre de solventes',
     'category': 'Cinta',
-    'image': '/src/data/img/60188-00007-00.png',
+    'image': '/img/60188-00007-00.png',
     'stock': 13,
    },
    
@@ -743,7 +743,7 @@ export const productos = [
     'description': 'La Cinta de Enmascarar Multipropósito tesa® es una cinta ampliamente utilizada para enmascarar en interiores y exteriores, sobre superficies de madera, muebles, metal, decoración y partes plásticas.',
     'characteristic': 'La Cinta de Enmascarar Multipropósito tesa® es una cinta ampliamente utilizada para enmascarar en interiores y exteriores, sobre superficies de madera, muebles, metal, decoración y partes plásticas. Se puede seleccionar entre una variada gama de cintas de uso general o arquitectónico. Las cintas de papel están disponibles en diferentes anchos para permitir una protección efectiva en casi cualquier situación. A pesar de que ofrece una buena adherencia sobre la mayoría de superficies, puede quitarse fácilmente sin dejar huellas visibles. Se puede retirar fácilmente sin dejar reciduos siempre y cuando se retire en el plazo de 3 días, tesa® garantiza también la eliminación libre de residuos, para un trabajo limpio del que podrás estar orgulloso. Fácil rasgado y libre de solventes',
     'category': 'Cinta',
-    'image': '/src/data/img/60188-00008-00.png',
+    'image': '/img/60188-00008-00.png',
     'stock': 8,
    },
    
@@ -754,7 +754,7 @@ export const productos = [
     'description': 'La Cinta de Enmascarar Multipropósito tesa® es una cinta ampliamente utilizada para enmascarar en interiores y exteriores, sobre superficies de madera, muebles, metal, decoración y partes plásticas.',
     'characteristic': 'La Cinta de Enmascarar Multipropósito tesa® es una cinta ampliamente utilizada para enmascarar en interiores y exteriores, sobre superficies de madera, muebles, metal, decoración y partes plásticas. Se puede seleccionar entre una variada gama de cintas de uso general o arquitectónico. Las cintas de papel están disponibles en diferentes anchos para permitir una protección efectiva en casi cualquier situación. A pesar de que ofrece una buena adherencia sobre la mayoría de superficies, puede quitarse fácilmente sin dejar huellas visibles. Se puede retirar fácilmente sin dejar reciduos siempre y cuando se retire en el plazo de 3 días, tesa® garantiza también la eliminación libre de residuos, para un trabajo limpio del que podrás estar orgulloso. Fácil rasgado y libre de solventes',
     'category': 'Cinta',
-    'image': '/src/data/img/60188-00009-00.png',
+    'image': '/img/60188-00009-00.png',
     'stock': 3,
    },
    
@@ -765,7 +765,7 @@ export const productos = [
     'description': 'Cinta para el marcado y señalización de pisos.',
     'characteristic': 'Cinta de PVC plastificado con un adhesivo de caucho-resina modificado muy potente que permita una perfecta adhesión en cualquier superficie.',
     'category': 'Cinta',
-    'image': '/src/data/img/60760-00087-15.png',
+    'image': '/img/60760-00087-15.png',
     'stock': 18,
    },
    
@@ -776,7 +776,7 @@ export const productos = [
     'description': 'Cinta para el marcado y señalización de pisos.',
     'characteristic': 'Cinta de PVC plastificado con un adhesivo de caucho-resina modificado muy potente que permita una perfecta adhesión en cualquier superficie.',
     'category': 'Cinta',
-    'image': '/src/data/img/60760-00095-15.png',
+    'image': '/img/60760-00095-15.png',
     'stock': 15,
    },
    
@@ -787,7 +787,7 @@ export const productos = [
     'description': 'Cinta Doble faz fílmica transparente, ideal para el pegado seguro y discreto de papel y cartulina. Es tu mejor aliado para todo tipo de manualidades.',
     'characteristic': 'La cinta doble faz fílmica de tesa® se adhiere a un gran número de superficies como papel, cartón, cartulina y plásticos con espesores no mayores a 2mm. Una vez aplicada tiene un efecto invisible por lo cual es destacable su discreción y acabado limpio. Debido a la tecnología superior adhesiva tesa®, tiene un alto poder adhesivo y es útil para pegar diversos tipos de materiales. Se adhiere fácilmente a las superficies y su acabado es imperceptible para el observador.',
     'category': 'Cinta',
-    'image': '/src/data/img/64621-00000-07.png',
+    'image': '/img/64621-00000-07.png',
     'stock': 20,
    },
    
@@ -798,7 +798,7 @@ export const productos = [
     'description': 'Cinta Doble faz fílmica transparente, ideal para el pegado seguro y discreto.',
     'characteristic': 'Cinta doble faz con soporte de } y adhesivo de caucho sintético. Libre de disolventes y alto tack. Protector de papel siliconado.',
     'category': 'Cinta',
-    'image': '/src/data/img/64621-00001-00.png',
+    'image': '/img/64621-00001-00.png',
     'stock': 17,
    },
    
@@ -809,7 +809,7 @@ export const productos = [
     'description': 'Cinta espumada diseñada para aplicaciones de uso general en el interior.',
     'characteristic': 'Cinta de espuma de PE. Alta adhesión incluso en superficies rugosas.',
     'category': 'Cinta',
-    'image': '/src/data/img/64958-00003-00.png',
+    'image': '/img/64958-00003-00.png',
     'stock': 11,
    },
    
@@ -820,7 +820,7 @@ export const productos = [
     'description': 'Cinta espumada diseñada para aplicaciones de uso general en el interior.',
     'characteristic': 'Cinta de espuma de PE. Alta adhesión incluso en superficies rugosas.',
     'category': 'Cinta',
-    'image': '/src/data/img/64958-09010-00.png',
+    'image': '/img/64958-09010-00.png',
     'stock': 2,
    },
    
@@ -831,7 +831,7 @@ export const productos = [
     'description': 'Cinta espumada diseñada para aplicaciones de uso general en el interior.',
     'characteristic': 'Cinta de espuma de PE. Alta adhesión incluso en superficies rugosas.',
     'category': 'Cinta',
-    'image': '/src/data/img/64958-09011-00.png',
+    'image': '/img/64958-09011-00.png',
     'stock': 20,
    },
 ]
