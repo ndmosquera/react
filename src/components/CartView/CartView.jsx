@@ -133,7 +133,7 @@ function CartView () {
             <h2>TU CARRITO ESTÁ VACIO</h2>
 
             <strong>
-                Te invitamos a revisar nuestro catagolo haciendo: <a href="/partner">CLIC AQUÍ</a>
+                Te invitamos a revisar nuestro catagolo haciendo: <Link to="/partner">CLIC AQUÍ</Link>
             </strong>
 
         </div>

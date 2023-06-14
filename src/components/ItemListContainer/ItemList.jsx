@@ -1,4 +1,4 @@
-
+import { Link } from "react-router-dom";
 import Flex from "../Flex/Flex";
 import Item from "../Item/Item";
 import Loader from "../Loader/Loader";
@@ -19,7 +19,7 @@ function ItemList({ products, isLoading }) {
             <>
             <div className="empty-cart-container">
             <strong>
-                Te invitamos a revisar nuestro catagolo haciendo: <a href="/partner">CLIC AQUÍ</a>
+                Te invitamos a revisar nuestro catagolo haciendo: <Link to="/partner">CLIC AQUÍ</Link>
             </strong>
 
             </div>

@@ -1,3 +1,5 @@
+import { Link } from "react-router-dom";
+
 function ContactPage() {
     return (
         <div className="home-container">
@@ -7,7 +9,7 @@ function ContactPage() {
             </div>
 
             <strong>
-                La tienda está en: <a href="/partner">SOCIO DE NEGOCIO</a>
+                La tienda está en: <Link to="/partner">SOCIO DE NEGOCIO</Link>
             </strong>
 
         </div>

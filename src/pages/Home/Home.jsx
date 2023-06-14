@@ -1,3 +1,4 @@
+import { Link } from "react-router-dom";
 import "./Home.css"
 
 function HomePage() {
@@ -9,7 +10,7 @@ function HomePage() {
             </div>
 
             <strong>
-                La tienda está en: <a href="/partner">SOCIO DE NEGOCIO</a>
+                La tienda está en: <Link to="/partner">SOCIO DE NEGOCIO</Link>
             </strong>
 
         </div>
