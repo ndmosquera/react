@@ -4,6 +4,7 @@ import './checkoutForm.css';
 import Button from "../Button/Button";
 
 function CheckoutForm({onConfirm}) {
+    const [formError, setFormError] = useState(false);
     const [userData, setUserData] = useState({
         [con.BUYER_NAME]: "",
         [con.BUYER_PHONE]: "",
@@ -34,10 +35,18 @@ function CheckoutForm({onConfirm}) {
         cursor: "pointer"
     }
 
-    function onSubmit(){
-        onConfirm(userData)
-
-    }
+    function onSubmit() {
+        if (
+          !userData[con.BUYER_NAME] ||
+          !userData[con.BUYER_PHONE] ||
+          !userData[con.BUYER_EMAIL]
+        ) {
+          setFormError(true);
+        } else {
+          setFormError(false);
+          onConfirm(userData);
+        }
+      }
 
     function onInputChange(evt) {
         const prop = evt.target.name;
@@ -92,8 +101,9 @@ function CheckoutForm({onConfirm}) {
                     <Button styBtn={styleSubmit} onClick={() => onSubmit()}>Crear Orden</Button>
                     <Button type="button" styBtn={styleReset} onClick={() => handleReset()}>Limpiar</Button>
                 </div>
-
+        {formError && <p className="error-message">Por favor, completa todos los campos.</p>}
         </form>
+
     )
 }
 
