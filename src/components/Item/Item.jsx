@@ -4,7 +4,7 @@ import * as con from '../../utils/GlobalConstants'
 import './Item.css';
 
 
-const Item = ({ name, price, image, id, category }) => {
+const Item = ({ title, price, image, id, category }) => {
 
   const styleBotton = {
     backgroundColor: "black",
@@ -15,9 +15,9 @@ const Item = ({ name, price, image, id, category }) => {
 
   return (
     <div className="product-card">
-      <img className="product-image" src={image} alt={name} />
+      <img className="product-image" src={image} alt={title} />
       <div className="product-details">
-        <h2 className="product-name">{name}</h2>
+        <h2 className="product-name">{title}</h2>
         <small>{category}</small>
         <p className="product-price">{con.FORMAT_MONEY_VALUE(price)}</p>
       </div>

@@ -125,6 +125,7 @@ function CartView () {
         }
     }
 
+    
     return (
         <>  
         {cart.length === 0 ? (
@@ -133,7 +134,7 @@ function CartView () {
             <h2>TU CARRITO ESTÁ VACIO</h2>
 
             <strong>
-                Te invitamos a revisar nuestro catagolo haciendo: <Link to="/partner">CLIC AQUÍ</Link>
+                Te invitamos a revisar nuestro catagolo haciendo: <Link to="/products">CLIC AQUÍ</Link>
             </strong>
 
         </div>

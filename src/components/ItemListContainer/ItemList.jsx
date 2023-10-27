@@ -31,7 +31,7 @@ function ItemList({ products, isLoading }) {
             
             <Flex>
                 {products.map((itemInArray) => (
-                    <Item key={itemInArray.SKU} {...itemInArray}/>
+                    <Item key={itemInArray.code} {...itemInArray}/>
                 ))}
             </Flex>
         </div>

@@ -1,10 +1,10 @@
 import { Link } from "react-router-dom";
 import ItemListContainer from "../../components/ItemListContainer/ItemListContainer";
-import './PartnerPage.css'
+import './ProductsPage.css'
 
 
 
-function PartnerPage() {
+function ProductsPage() {
     return (
         <div className="partner-container">
             <aside className="partner-sidebar">
@@ -31,4 +31,4 @@ function PartnerPage() {
     )
 }
 
-export default PartnerPage
+export default ProductsPage

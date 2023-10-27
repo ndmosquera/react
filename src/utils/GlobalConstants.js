@@ -1,3 +1,13 @@
+// API
+export const URL_SERVER = "http://localhost:8008"
+export const DATA = "data"
+export const TOKEN = "token"
+export const STATUS = "status"
+export const OK = "ok"
+export const CART = "cart"
+
+
+
 
 // DATABASE
 export const ID = "id"
